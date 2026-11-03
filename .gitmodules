@@ -1,0 +1,6 @@
+[submodule "eduardoSimpleService"]
+	path = eduardoSimpleService
+	url = https://github.com/EduardoAcostaVargas/eduardoSimpleService.git
+[submodule "shoe-catalog"]
+	path = shoe-catalog
+	url = https://github.com/EduardoAcostaVargas/shoe-catalog-front-end.git
